@@ -1,0 +1,6 @@
+---
+- name: Security hardening and user setup
+  hosts: all
+  roles:
+    - security
+
